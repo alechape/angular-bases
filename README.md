@@ -1,6 +1,10 @@
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
+Angular CLI: 16.2.5
+Node: 18.17.1
+Package Manager: npm 9.6.7
+OS: win32 x64
 
 ## Development server
 
